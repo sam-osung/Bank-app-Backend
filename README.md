@@ -1,6 +1,5 @@
 
-# Digital Witch Cloud Security / DevOps Project On Bank Managmenet App
-## This is the backend app which is coded and  Create Java.
+## This is the backend app which is developed with Java.
 ## And the database is mysql database 
 -----------------------------------------------------------------------
 
