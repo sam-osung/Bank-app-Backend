@@ -11,3 +11,5 @@ Befor starting the project set up, make sure you have properly installed the bel
 5) MySQL Server and MySQL WorkBench (use can also use Command prompt for Data Querying, But I recommend to use Workbench)
 
 ### This is the architecture of the project
+
+
